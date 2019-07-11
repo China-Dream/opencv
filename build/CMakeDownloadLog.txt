@@ -1,0 +1,5 @@
+#use_cache "D:/Projects2/opencv/source/.cache"
+#match_hash_in_cmake_cache "OCV_DOWNLOAD_FFMPEG_HASH_3rdparty_ffmpeg_opencv_ffmpeg_dll"
+#match_hash_in_cmake_cache "OCV_DOWNLOAD_FFMPEG_HASH_3rdparty_ffmpeg_opencv_ffmpeg_64_dll"
+#match_hash_in_cmake_cache "OCV_DOWNLOAD_FFMPEG_HASH_3rdparty_ffmpeg_ffmpeg_version_cmake"
+#match_hash_in_cmake_cache "OCV_DOWNLOAD_IPPICV_HASH_3rdparty_ippicv_ippicv_2017u3_win_intel64_general_20180518_zip"
